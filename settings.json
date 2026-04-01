@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "albendrosonic.aternos.me:12599",
+    "port": 12599,
     "version": "",
     "try-creative": false
   },
